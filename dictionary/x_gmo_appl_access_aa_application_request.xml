@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="AA Application Request" max_length="40" name="x_gmo_appl_access_aa_application_request" type="collection">
+        <element label="AA ID" max_length="32" name="aa_id" reference="x_gmo_appl_access_aa_request" type="reference"/>
+    </element>
+</database>

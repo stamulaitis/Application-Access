@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="AA Request" max_length="40" name="x_gmo_appl_access_aa_request" type="collection"/>
+</database>
